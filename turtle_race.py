@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random
 
-# defining the screen and screen width
+# defining the screen and screen width and height
 screen = Screen()
 screen.setup(width=400, height=400)
 
